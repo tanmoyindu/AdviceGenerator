@@ -8,6 +8,7 @@ Counts the total number of advices generated.
 
 # Technologies Used:
 React.js
+
 Random advice Api URL	https://api.adviceslip.com/advice
 
 # How to Use:
