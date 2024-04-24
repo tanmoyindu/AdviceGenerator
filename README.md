@@ -10,6 +10,7 @@ Counts the total number of advices generated.
 React.js
 
 Random advice Api URL 	https://api.adviceslip.com/advice
+
 Advice Slip JSON API https://api.adviceslip.com/
 
 # How to Use:
