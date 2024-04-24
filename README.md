@@ -1,5 +1,4 @@
 # AdviceGenerator
-Created with CodeSandbo
 This is a simple React.js project developed as part of my learning journey with the framework. The Random Advice Generator generates random pieces of advice each time the "Get Advice" button is clicked. Additionally, it keeps track of the total number of advices generated, providing a fun and interactive way to explore random advice snippets.
 
 # Features:
